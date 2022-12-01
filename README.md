@@ -1,5 +1,3 @@
-Add solder joints and radial condensators to the work from Glitch Works.
-
 # XT-IDE 8-Bit IDE Controller
 
 [Glitch Works](http://www.glitchwrks.com/) continuing extension of the XT-IDE rev 2 ISA controller. This board, when used with a custom BIOS like the XT-IDE Universal BIOS, allows the use of modern 16-bit IDE devices on the 8-bit ISA bus.
